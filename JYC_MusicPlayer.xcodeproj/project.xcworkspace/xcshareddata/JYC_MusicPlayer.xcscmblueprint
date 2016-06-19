@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fca42c4f-6f44-4d60-bd28-55144746a340++6331" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "fca42c4f-6f44-4d60-bd28-55144746a340++6331" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "486DD30A-BBBA-4BF2-AC3E-D418F97E4253",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "fca42c4f-6f44-4d60-bd28-55144746a340++6331" : "JYC_MusicPlayer\/JYC_MusicPlayer\/classes\/Verdors\/%E7%AC%AC%E4%B8%80%E5%A4%A9%E8%B5%84%E6%96%99\/SDWebImage\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JYC_MusicPlayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JYC_MusicPlayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svnchina.com\/svn\/lihaowei",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fca42c4f-6f44-4d60-bd28-55144746a340++6331"
+    }
+  ]
+}
